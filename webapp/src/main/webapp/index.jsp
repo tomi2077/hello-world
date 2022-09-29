@@ -32,6 +32,10 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
+  <div class="container signin">
+    <p>Don't have an account? <a href="#">Sign in</a>.</p>
+  </div>
+
    <h1> Thank you, Happy Learning </h1>
    <h1> Goodbye! </h1>
    <h1> A new addition to test! </h1> 
